@@ -1,0 +1,33 @@
+
+body, html {
+  height: 100%;
+}
+
+html { 
+  background: url('../img/FONDO-AGORA.png'); 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.down
+{
+	margin-top: 15%;
+}
+
+.little1
+{
+	padding-top: 15%;
+}
+.little2
+{
+	padding-top: 25%;
+}
+.little3
+{
+	padding-top: 40%;
+}
+img
+{
+	width: auto;
+}
